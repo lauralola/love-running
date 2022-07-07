@@ -262,6 +262,13 @@ footer i{
     hr{
         display: none;
     }
+
+    #times > div{
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
 }
 
 /* for 950px and down */
